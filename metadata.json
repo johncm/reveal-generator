@@ -1,0 +1,5 @@
+{
+  "name": "InstantDeck AI",
+  "description": "An AI-powered presentation generator that creates stunning slide decks instantly using Reveal.js and Gemini.",
+  "requestFramePermissions": []
+}
